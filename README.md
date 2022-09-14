@@ -5,4 +5,3 @@ This is a repository created by *Tristan*
 
 Run this command to execute the application:
 'main.py'
-'''
