@@ -1,3 +1,8 @@
-# Elite101-PreWork
+# Introduction
+This is a repository created by *Tristan*
 
-Created entirely on my own, a chatbot that says nothing of interest. Have fun!
+##Usage
+
+Run this command to execute the application:
+'main.py'
+'''
